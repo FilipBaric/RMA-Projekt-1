@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projekt1</string>
+    <string name="nazad">Nazad</string>
+    <string name="name">Name</string>
+    <string name="country">Country</string>
+    <string name="REST_API">http://universities.hipolabs.com/</string>
+</resources>
